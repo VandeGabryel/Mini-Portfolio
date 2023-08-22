@@ -1,6 +1,6 @@
 # Mini-Portfolio
 _Projeto desenvolvido com apoio do DevQuest_
-<p>Criação de um mini portfólio pessoal em forma de "cartão", em breve estarei criando um portfólio mais estruturado enquanto estou aprendendo cada vez mais.</p>
+<p>Dentro do "site" têm um pouco sobre mim, uma aba com links para GitHub, LinkedIn e Currículo; mas também links para outros repositorios que contém os próprios links para outros projetos.</p>
 
 ## 🌐 "linguagens Usadas"
 _HTML,CSS e JavaScript_
